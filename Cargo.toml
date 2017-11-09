@@ -1,0 +1,10 @@
+[package]
+authors = ["Jakob Beckmann <beckmann_jakob@hotmail.fr>"]
+name = "sudoku"
+version = "0.1.0"
+[dependencies]
+piston = "*"
+piston2d-graphics = "*"
+piston2d-opengl_graphics = "*"
+pistoncore-glutin_window = "*"
+rand = "*"
